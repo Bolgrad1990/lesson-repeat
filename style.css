@@ -209,3 +209,47 @@
     right: 48px;
     top: 50%;
 }
+
+.kaufman {
+    background-color: #1f1f1f;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding: 90px 0px;
+    overflow: hidden;
+}
+
+.kaufman__triangle {
+    width: 877px;
+    height: 877px;
+    position: absolute;
+    background-repeat: no-repeat;
+    top: 0;
+    right: -210px;
+}
+
+.section-title_them_dark {
+    color: #fff;
+    z-index: 1;
+}
+
+.section-subtitle_them_dark {
+    color: #fff;
+    margin-top: 20px;
+    z-index: 1;
+}
+
+.table_them_dark {}
+
+.table__cell_them_dark {
+    color: #fff;
+    width: 200px;
+    margin-top: 80px;
+    z-index: 1;
+}
+
+.table__heading_them_dark {
+    text-align: left;
+}
+
+.table__text_them_dark {}
